@@ -1,0 +1,6 @@
+Artificial Intelligence (AI) is a branch of computer science that enables machines to think and learn like humans.
+AI can perform tasks such as problem-solving, decision-making, and language understanding.
+It is used in applications like virtual assistants, self-driving cars, and recommendation systems.
+Machine Learning and Deep Learning are important parts of AI.
+AI helps improve efficiency, accuracy, and automation in many industries.
+Today, AI is transforming healthcare, education, business, and technology around the world. 
